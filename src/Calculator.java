@@ -1,6 +1,6 @@
 public class Calculator {
     public double addition(double a, double b) {
-        return 0.0;
+        return a + b;
     }
 
     public double soustraction(double a, double b) {
